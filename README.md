@@ -1,5 +1,5 @@
 # learn-spark
-Here are some notebooks which contain sample code for spark api using python . test
+Here are some notebooks which contain sample code for spark api using python .
 
 # Notebooks
 1. - Create Dataframe using different techniques
